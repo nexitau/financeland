@@ -1,0 +1,13 @@
+{
+  "client": "Finance Land",
+  "agency": "NexIT Solutions",
+  "project_owner": "Naman",
+  "services": ["Website build (in progress)", "Marketing (starts after the website is live)"],
+  "timezone": "Australia/Melbourne",
+  "website": null,
+  "platform": null,
+  "target_go_live": null,
+  "client_contact": { "name": null, "channel": null },
+  "google_drive_folder": null,
+  "_note": "null means not yet confirmed. No passwords, keys or billing amounts in this file."
+}
